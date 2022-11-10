@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        {System.out.println(" Lesson 8 ");}
+        {System.out.println(" Lesson 888 ");}
         {System.out.println(" Задание 8.1 ");}
         // Задание 8.1
         int salary = 15000;
