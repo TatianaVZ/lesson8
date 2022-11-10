@@ -115,6 +115,8 @@ for (int j = 1; j <= 10; j++) {
             totalg = q * g;
             System.out.println(q + " * " + g + " = " + totalg );}
 
+        {System.out.println(" третья попытка сделать ветку ");}
+
 
 
 }}
